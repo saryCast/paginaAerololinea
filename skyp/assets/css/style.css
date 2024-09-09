@@ -1,0 +1,27 @@
+.table{
+    text-align: center;
+    width: 70%;
+   }
+
+.texto-izquierda{
+    text-align: left;
+}
+
+.carrusel{
+    margin-top: -2%;
+}
+
+.botones {
+    margin: -6%;
+    text-align: left;
+    color: black;
+    background-color: rgba(235, 232, 232, 0.911);
+    padding: 0%;
+    font-size: 90%;
+}
+
+#masinfo{
+    margin-left: 2%;
+    margin-top: 20%;
+    padding: 3%;
+}
